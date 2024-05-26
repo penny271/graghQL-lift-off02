@@ -25,6 +25,7 @@ url: https://www.apollographql.com/tutorials/lift-off-part2/08-server-codegen
 ※ server/src/datasources/track-api.ts でも `./models#AuthorModel` を作成し、mapperとして利用することで型定義を明確化する
 
 
+######################################################################
 
 ## Lift-off I: Basics
 # url: https://www.apollographql.com/tutorials/lift-off-part1/09-codegen
